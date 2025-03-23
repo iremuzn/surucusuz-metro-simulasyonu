@@ -5,7 +5,7 @@ Bu proje, Python dilinde geliştirilmiş bir metro simülasyonudur. Başlangıç
 ## Kullanılan Teknolojiler ve Kütüphaneler
 - Python 3.x
 - collections (deque, defaultdict): Varsayılan sözlük ve kuyruk yapısı için kullanıldı.
-- headq: A* algoritmasında öncelik kuyruğu oluşturmak için kullanıldı.
+- heapq: A* algoritmasında öncelik kuyruğu oluşturmak için kullanıldı.
 - typing: Kodun okunabilirliğini artırmak için kullanıldı.
 ---
 ## Algoritmaların Çalışma Mantığı
